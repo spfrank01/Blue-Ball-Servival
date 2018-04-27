@@ -1,6 +1,4 @@
-"# Blue-Ball-Servival" 
-
-Blue Ball Servival
+Blue Ball Servival สำเร็จเมื่อ 16/12/2016 เป็นงานของวิชา Building Software 1
 
 Local server Only!! 
 
